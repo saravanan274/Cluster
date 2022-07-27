@@ -156,19 +156,19 @@
                             <a href="#" class="nav-link">IT Services <i class="icon-arrow-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Cloud Solutions<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/cloudservices.php">Cloud Solutions<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/itprojectmanagement.php">IT Project Management<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">IT Security<i class="icon-arrow-right"></i></a></li>  
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/itsecurity.php">IT Security<i class="icon-arrow-right"></i></a></li>  
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">IT Support Services<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/itsupportservices.php">IT Support Services<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Smart Hand Support Services<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/Smarthand.php">Smart Hand Support Services<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Telephony<i class="icon-arrow-right"></i></a></li>    
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/telephony.php">Telephony<i class="icon-arrow-right"></i></a></li>    
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Turnkey Office Fit out<i class="icon-arrow-right"></i></a></li> 
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/telephony.php">Turnkey Office Fit out<i class="icon-arrow-right"></i></a></li> 
                             </ul>
                         </li>
                         <li class="nav-item dropdown">

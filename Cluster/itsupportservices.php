@@ -15,68 +15,135 @@
                                 <!-- Content -->
                                 <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
                                     <ol class="breadcrumb">
-                                       
-                                    
+                                        
                                     </ol>
                                 </nav>
-
-                                <h1 class="mb-0 title effect-static-text">Cloud Solutions</h1>
+                                <h1 class="mb-0 title effect-static-text">IT Support Services</h1>
                             </div>
                         </div>
+                       
                     </div>
 
                 </div>
             </div>
         </section>
-        
-        <!-- Process -->
-        <section id="process" class="section-1 process offers">
-            <div class="container full">
-                <div class="row text-center intro">
+
+        <!-- Result -->
+        <section id="result" class="section-1 offers">
+        <div class="row text-center intro">
                     <div class="col-12">
                         <span class="pre-title">How it works in practice</span>
-                        <h2><span class="featured"><span>Cloud</span></span> Solutions</h2>
-                        <p class="text-max-800">Cloud Computing delivers IT solutions via the Internet, which are accessed from web browsers, desktop and mobile applications. The business software and data are stored on servers at a remote location.</p>
+                        <h2><span class="featured">IT Support Services</span></h2>
+                        <p class="text-max-800">cluster infotech is a professional and trusted IT solutions company dedicated to providing exceptional service to businesses in Singapore and across Asia. We work with organisations of every size and from every sector.</p>
                     </div>
-                    
                 </div>
-                <h2 style="text-align:center;"><span class="featured" >Key Benefits of our Cloud Solutions</h2>
-                <div class="row justify-content-center text-center items">
+            <div class="container">
+            <div class="row items">
                 
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>01</span></div>
-                        <h4>Reduce Cost</h4>
-                        <p>Cloud technology is paid in smaller regular amounts, without huge capital expenditure, saving businesses money. Ongoing maintenance costs are also reduced.</p>
+                <div data-aos="fade-up" class="col-12 col-md-4 item">
+                    <div class="card">
+                        <div class="col-12">
+                           
+                            <h4>Conduct an Onboarding Assessment</h4>
+                            <p>With Managed IT Support, we will first conduct an onboarding assessment of your current IT situation..</p>
+                            
+                        </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>02</span></div>
-                        <h4>flexibility</h4>
-                        <p>Cloud computing offers much more flexibility than past computing methods. Clients are able to adjust their requirements as their business grows, and upgrades in storage capacity can be delivered quickly and easily..</p>
+                </div>
+                <div data-aos="fade-up" class="col-12 col-md-4 item">
+                    <div class="card">
+                        <div class="col-12">
+                            
+                            <h4>Plan and Construct your IT Roadmap</h4>
+                            <p>
+Our IT Roadmap is flexible and customized for each of our client, and tailored to fulfil all their IT needs, budget and timeline..</p>
+                           
+                        </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>03</span></div>
-                        <h4>Highly Automated</h4>
-                        <p>No longer do IT personnel need to worry about keeping software up to date. Maintenance of cloud computing applications is easier, because they do not need to be installed on each user’s computer.</p>
+                </div>
+                <div data-aos="fade-up" class="col-12 col-md-4 item">
+                    <div class="card">
+                        <div class="col-12">
+                            
+                            <h4>Listen to your IT Needs and Advise Accordingly</h4>
+                            <p>
+Our team will advise you on our proposed IT roadmap for your company. But remember, you’re the head, we’re the arms and legs.</p>
+                           
+                        </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>04</span></div>
-                        <h4>More Mobility</h4>
-                        <p>Employees can access information wherever they are, rather than having to remain at their desks. eVantage Technology offers a range of Cloud computing solutions to meet your business needs regardless of your size or complexity.</p>
+                </div>
+                <div data-aos="fade-up" class="col-12 col-md-4 item">
+                    <div class="card">
+                        <div class="col-12">
+                            
+                            <h4>Implement and Run your IT Plans</h4>
+                            <p>
+Our highly trained Support Engineers and Project Managers, with best-in-class industry certifications, will be able to smoothly and efficiently implement your IT Roadmap..</p>
+                           
+                        </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>05</span></div>
-                        <h4>Increased Storage</h4>
-                        <p>Organizations can store more data than on private computer systems.</p>
+                </div>
+                <div data-aos="fade-up" class="col-12 col-md-4 item">
+                    <div class="card">
+                        <div class="col-12">
+                            
+                            <h4>Provide you with Day-to-Day IT Support</h4>
+                            <p>
+We provide both remote and onsite day-to-day support to help you resolve any IT issues or improve any of your current IT ones.</p>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div data-aos="fade-up" class="col-12 col-md-4 item">
+                    <div class="card">
+                        <div class="col-12">
+                           
+                            <h4>Pro-Actively Monitor your Systems</h4>
+                            <p>
+Our team will help to monitor and detect any IT issues before they even become a problem to your company..</p>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div data-aos="fade-up" class="col-12 col-md-4 item">
+                    <div class="card">
+                        <div class="col-12">
+                            
+                            <h4>Provide 24/7/365 Monitoring for you</h4>
+                            <p>
+Our Managed Support provides you with 24/7 support and systems monitoring, with our highly trained engineers who will be able to handle any IT challenges you encounter, and become an extension of your team.</p>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div data-aos="fade-up" class="col-12 col-md-4 item">
+                    <div class="card">
+                        <div class="col-12">
+                            
+                            <h4>Continuously Review and Improve your IT</h4>
+                            <p>
+IT is always changing and upgrading. With Managed Support, we will ensure that your software is always up-to-date. There is also the flexibility to upscale or downscale your IT support plans.</p>
+                         
+                        </div>
+                    </div>
+                </div>
+                <div data-aos="fade-up" class="col-12 col-md-4 item">
+                    <div class="card">
+                        <div class="col-12">
+                           
+                            <h4>Fast response time</h4>
+                            <p>Immediate response from our helpdesk based in Singapore
+
+We recognise the potential cost that unscheduled IT downtime can have on your business</p>
+                            
+                        </div>
                     </div>
                 </div>
             </div>
+            </div>
         </section>
-
-        <!-- Services -->
-       
-
-        <!-- Contact -->
-        <section id="contact" class="section-3 form contact">
+         <!-- Contact -->
+         <section id="contact" class="section-3 form contact" style="background-color:white;">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-8 pr-md-5 align-self-center text">

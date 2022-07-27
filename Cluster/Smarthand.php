@@ -1,5 +1,6 @@
 <?php include 'header.php';?>
-<section id="slider" class="hero p-0 odd featured">
+  <!-- Hero -->
+  <section id="slider" class="hero p-0 odd featured">
             <div class="swiper-container no-slider animation slider-h-50 slider-h-auto">
                 <div class="swiper-wrapper">
 
@@ -7,20 +8,13 @@
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <img src="assets/images/bg-wide.jpg" alt="Full Image" class="full-image" data-mask="80">
+                        <img src="assets/images/bg-wide.jpg" alt="Full Image" class="full-image" data-mask="80">  
 
                         <div class="slide-content row text-center">
                             <div class="col-12 mx-auto inner">
 
-                                <!-- Content -->
-                                <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
-                                    <ol class="breadcrumb">
-                                       
-                                    
-                                    </ol>
-                                </nav>
 
-                                <h1 class="mb-0 title effect-static-text">Cloud Solutions</h1>
+                                <h1 class="mb-0 title effect-static-text">Smart Hands Support Service</h1>
                             </div>
                         </div>
                     </div>
@@ -28,55 +22,104 @@
                 </div>
             </div>
         </section>
-        
-        <!-- Process -->
-        <section id="process" class="section-1 process offers">
-            <div class="container full">
+
+        <!-- Testimonials -->
+        <section id="testimonials" class="section-1 offers testimonials">
+            <div class="container">
                 <div class="row text-center intro">
                     <div class="col-12">
-                        <span class="pre-title">How it works in practice</span>
-                        <h2><span class="featured"><span>Cloud</span></span> Solutions</h2>
-                        <p class="text-max-800">Cloud Computing delivers IT solutions via the Internet, which are accessed from web browsers, desktop and mobile applications. The business software and data are stored on servers at a remote location.</p>
+                        <span class="pre-title"></span>
+                        <h2> IT Infrastructure <span class="featured"><span>Smart Hands Support Service</span></span></h2>
+                        <p class="text-max-800">
+Smart Hands is an on-site, operational support service for remote management, installation and troubleshooting of your equipment.</p>
+<p>Cluster Infotech Smart Hands Support Service is tailored towards organisations who already have a centralised network engineering or IT team, but need someone to be on-site or require an extended technical support.</p>
                     </div>
-                    
                 </div>
-                <h2 style="text-align:center;"><span class="featured" >Key Benefits of our Cloud Solutions</h2>
-                <div class="row justify-content-center text-center items">
+                <div class="row justify-content-center items">
+                    <div data-aos="fade-up" class="col-12 col-md-6 item">
+                        <div class="card">
+                            <div class="col-12">
+                                <h4>On-Site Technical Support</h4>
+                                <p>We are able to provide you with efficient on-site technical support for your clients.</p>
+                                <p>saving you the time and money of traveling down.</p>
+                                <i class="quote-right fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-aos="fade-up" class="col-12 col-md-6 item">
+                        <div class="card">
+                            <div class="col-12">
+                            <h4>IT Consulting Services</h4>
+                                <p>We ensure you have the best solution tailored to your needs..</p>
+                                
+                                <i class="quote-right fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-aos="fade-up" class="col-12 col-md-6 item">
+                        <div class="card">
+                            <div class="col-12">
+                            <h4>Access to Knowledgeable PRO IT Engineers</h4>
+                                <p>Our highly-trained Engineers and Project Managers are ready and able to provide the last-mile support as an extension of your team..</p>
+                                
+                                <i class="quote-right fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-aos="fade-up" class="col-12 col-md-6 item">
+                        <div class="card">
+                            <div class="col-12">
+                            <h4>Troubleshooting</h4>
+                                <p>Where required, we are able to help with troubleshooting any issues or problems that arise, and escalating back to your team.</p>
+                            
+                                <i class="quote-right fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-aos="fade-up" class="col-12 col-md-6 item">
+                        <div class="card">
+                            <div class="col-12">
+                            <h4>Customer Hardware Support</h4>
+                                <p>Hardware reboots,Inventory services,Cold/hot swaps,Rack and stack,Labeling services,Hard drives replacement,Physical hardware replacement,Fault finding assistance - hardware/software/networks,Planning and migration of equipment.</p>
+                                
+                                <i class="quote-right fas fa-quote-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-aos="fade-up" class="col-12 col-md-6 item">
+                        <div class="card">
+                            <div class="col-12">
+                            <h4>Installation</h4>
+                                <p>Operating system installation,Memory installation.</p>
                 
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>01</span></div>
-                        <h4>Reduce Cost</h4>
-                        <p>Cloud technology is paid in smaller regular amounts, without huge capital expenditure, saving businesses money. Ongoing maintenance costs are also reduced.</p>
+                                <i class="quote-right fas fa-quote-right"></i>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>02</span></div>
-                        <h4>flexibility</h4>
-                        <p>Cloud computing offers much more flexibility than past computing methods. Clients are able to adjust their requirements as their business grows, and upgrades in storage capacity can be delivered quickly and easily..</p>
+                    <div data-aos="fade-up" class="col-12 col-md-6 item">
+                        <div class="card">
+                            <div class="col-12">
+                            <h4>Power and Network</h4>
+                                <p>Structured cabling,Circuit signal tests,Cross connect verification,Remote testing assistance,Network reconfiguration,Router/Switch installation and configuration.</p>
+                            
+                                <i class="quote-right fas fa-quote-right"></i>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>03</span></div>
-                        <h4>Highly Automated</h4>
-                        <p>No longer do IT personnel need to worry about keeping software up to date. Maintenance of cloud computing applications is easier, because they do not need to be installed on each user’s computer.</p>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>04</span></div>
-                        <h4>More Mobility</h4>
-                        <p>Employees can access information wherever they are, rather than having to remain at their desks. eVantage Technology offers a range of Cloud computing solutions to meet your business needs regardless of your size or complexity.</p>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>05</span></div>
-                        <h4>Increased Storage</h4>
-                        <p>Organizations can store more data than on private computer systems.</p>
+                    <div data-aos="fade-up" class="col-12 col-md-6 item">
+                        <div class="card">
+                            <div class="col-12">
+                            <h4>General Amenities</h4>
+                                <p>Housekeeping,Secure data erasure,IT asset recycling and disposition,Visual inspection,Cart/server lift delivery,Procurement services.</p>
+                                <i class="quote-right fas fa-quote-right"></i>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
-
-        <!-- Services -->
-       
-
-        <!-- Contact -->
-        <section id="contact" class="section-3 form contact">
+         <!-- Contact -->
+         <section id="contact" class="section-3 form contact" style="background-color:white;">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-8 pr-md-5 align-self-center text">
@@ -165,5 +208,4 @@
                 </div>
             </div>
         </section>
-
 <?php include 'footer.php';?>

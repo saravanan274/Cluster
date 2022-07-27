@@ -1,5 +1,6 @@
 <?php include 'header.php';?>
-<section id="slider" class="hero p-0 odd featured">
+<!-- Hero -->
+ <section id="slider" class="hero p-0 odd featured">
             <div class="swiper-container no-slider animation slider-h-50 slider-h-auto">
                 <div class="swiper-wrapper">
 
@@ -7,20 +8,11 @@
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <img src="assets/images/bg-wide.jpg" alt="Full Image" class="full-image" data-mask="80">
+                        <img src="assets/images/bg-wide.jpg" alt="Full Image" class="full-image" data-mask="80">  
 
                         <div class="slide-content row text-center">
                             <div class="col-12 mx-auto inner">
-
-                                <!-- Content -->
-                                <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
-                                    <ol class="breadcrumb">
-                                       
-                                    
-                                    </ol>
-                                </nav>
-
-                                <h1 class="mb-0 title effect-static-text">Cloud Solutions</h1>
+                                <h1 class="mb-0 title effect-static-text">Telephony</h1>
                             </div>
                         </div>
                     </div>
@@ -28,55 +20,90 @@
                 </div>
             </div>
         </section>
-        
-        <!-- Process -->
-        <section id="process" class="section-1 process offers">
-            <div class="container full">
+
+        <!-- About -->
+        <section id="about" class="section-1 highlights team image-right">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-8 align-self-top text">
+                        <div class="row intro m-0">
+                            <div class="col-12 p-0">
+                                
+                                <h2><span class="featured">Telephony</span></h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 p-0 pr-md-5">
+                                <p>We believe that communication should be convenient.</p>
+                                <p>We make communication convenient for you by offering you simple and user-friendly telephony solutions for you, empowering your business.</p>
+                            </div>
+                        </div>
+                    </div>
+                
+        </section>
+
+        <!-- Pricing -->
+        <section  style="background-color:black; " id="pricing" class="section-2 odd plans">
+            <div class="container">
                 <div class="row text-center intro">
                     <div class="col-12">
-                        <span class="pre-title">How it works in practice</span>
-                        <h2><span class="featured"><span>Cloud</span></span> Solutions</h2>
-                        <p class="text-max-800">Cloud Computing delivers IT solutions via the Internet, which are accessed from web browsers, desktop and mobile applications. The business software and data are stored on servers at a remote location.</p>
+                        
+                        <h2><span class="featured">Our Telephony Service includes</span></h2>
+                        <p class="text-max-800">We can help you deliver and execute your future, wherever you compete, using the latest technologies, from strategy development to implementation.</p>
                     </div>
-                    
                 </div>
-                <h2 style="text-align:center;"><span class="featured" >Key Benefits of our Cloud Solutions</h2>
                 <div class="row justify-content-center text-center items">
-                
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>01</span></div>
-                        <h4>Reduce Cost</h4>
-                        <p>Cloud technology is paid in smaller regular amounts, without huge capital expenditure, saving businesses money. Ongoing maintenance costs are also reduced.</p>
+                    <div class="col-12 col-md-6 col-lg-4 align-self-center text-center item">
+                        <div data-aos="fade-up" class="card">
+                            <a href="#" class="choose-plan"><i class=""></i></a>
+                            <i class="icon icon-rocket"></i>
+                            <h4>Hosted PABX</h4>
+                            <span class="price">
+                            
+                            </span>                            
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
+                                    <p>Why do our clients love hosted PABX? This  is simply because it seamlessly combines their office telephone systems to their Voice Over Internet Protocol (VOIP) service provider. What Hosted PABX means to you is that anywhere you go, you have access to both your personal and office phone all on the same device.</p>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>02</span></div>
-                        <h4>flexibility</h4>
-                        <p>Cloud computing offers much more flexibility than past computing methods. Clients are able to adjust their requirements as their business grows, and upgrades in storage capacity can be delivered quickly and easily..</p>
+                    <div class="col-12 col-md-6 col-lg-4 align-self-center text-center item">
+                        <div data-aos="fade-up" class="card most-popular">
+                            
+                            <a href="#" class="choose-plan"><i class=""></i></a>
+                            <i class="icon icon-briefcase"></i>
+                            <h4>Voice over Internet Protocol (VoIP)</h4>
+                            <span class="price">
+                               
+                            </span>  
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
+                                   <p>systems that impair your connection to clients and colleagues.There is a much better way you can communicate. With Voice over Internet Protocol (VoIP), you can connect all your communication needs, including conference or video calls into one inexpensive platform.</p>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>03</span></div>
-                        <h4>Highly Automated</h4>
-                        <p>No longer do IT personnel need to worry about keeping software up to date. Maintenance of cloud computing applications is easier, because they do not need to be installed on each user’s computer.</p>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>04</span></div>
-                        <h4>More Mobility</h4>
-                        <p>Employees can access information wherever they are, rather than having to remain at their desks. eVantage Technology offers a range of Cloud computing solutions to meet your business needs regardless of your size or complexity.</p>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-2 item">
-                        <div class="step"><span>05</span></div>
-                        <h4>Increased Storage</h4>
-                        <p>Organizations can store more data than on private computer systems.</p>
+                    <div class="col-12 col-md-6 col-lg-4 align-self-center text-center item">
+                        <div data-aos="fade-up" class="card">
+                            <a href="#" class="choose-plan"><i class=""></i></a>
+                            <i class="icon icon-diamond"></i>
+                            <h4>Inbound Service</h4>
+                            <span class="price">
+                                
+                            </span>  
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
+                                <p>This service expands your customer reach significantly. An inbound service basically gives your office number connectivity across the world. It does so by creating a virtual service number based in the geographical location of your customer, and then transmits that call to you instantaneousl.your inbound services also transfer calls to partners of your choice.</p>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
-
-        <!-- Services -->
-       
-
-        <!-- Contact -->
-        <section id="contact" class="section-3 form contact">
+         <!-- Contact -->
+         <section id="contact" class="section-3 form contact" style="background-color:white;">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-8 pr-md-5 align-self-center text">
@@ -166,4 +193,24 @@
             </div>
         </section>
 
-<?php include 'footer.php';?>
+        
+        <!-- ==============================================
+        Vendor Scripts
+        =============================================== -->
+        <script src="assets/js/vendor/jquery.min.js"></script>
+        <script src="assets/js/vendor/jquery.easing.min.js"></script>
+        <script src="assets/js/vendor/jquery.inview.min.js"></script>
+        <script src="assets/js/vendor/popper.min.js"></script>
+        <script src="assets/js/vendor/bootstrap.min.js"></script>
+        <script src="assets/js/vendor/ponyfill.min.js"></script>
+        <script src="assets/js/vendor/slider.min.js"></script>
+        <script src="assets/js/vendor/animation.min.js"></script>
+        <script src="assets/js/vendor/progress-radial.min.js"></script>
+        <script src="assets/js/vendor/bricklayer.min.js"></script>
+        <script src="assets/js/vendor/gallery.min.js"></script>
+        <script src="assets/js/vendor/shuffle.min.js"></script>
+        <script src="assets/js/vendor/cookie-notice.min.js"></script>
+        <script src="assets/js/vendor/particles.min.js"></script>
+        <script src="assets/js/main.js"></script>
+
+        <?php include 'footer.php';?>
