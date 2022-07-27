@@ -298,7 +298,7 @@ h1 .pre-title {
     position: relative;
     bottom: 10px;
     font-family: var(--p-font);
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 
@@ -1049,7 +1049,7 @@ aside {
 }
 
 .images .items .item .content {
-    border-radius: 0 0 10px 10px;
+    border-radius: auto 10px 10px;
     border: 1px solid rgba(0, 0, 0, 0.15);
 }
 
@@ -1875,7 +1875,8 @@ header .navbar-expand .navbar-brand i {
 }
 
 header .navbar-expand .navbar-brand img {
-    height: var(--nav-brand-height);
+    /*height: var(--nav-brand-height);*/
+    width:150px;
 }
 
 header .navbar-expand .navbar-brand .brand {
@@ -2850,6 +2851,7 @@ header .navbar-expand .navbar-brand .featured .first {
     z-index: 1;
     width: 100%;
     padding: 45px;
+    height:100%;
     border-radius: 10px;
     border: none;
     background-color: var(--card-bg-color);
@@ -3912,7 +3914,8 @@ footer .navbar-brand i {
 }
 
 footer .navbar-brand img {
-    height: var(--nav-brand-height);
+    /*height: var(--nav-brand-height);*/
+    width:150px;
 }
 
 footer .navbar-brand .brand {
@@ -3923,7 +3926,7 @@ footer .navbar-brand .brand {
 footer .navbar-brand .featured {
     position: relative;
     display: inline-block;
-    padding: 13px 2px 14px 30px;
+    padding: 13px 2px 25px 30px;
 }
 
 footer .navbar-brand .featured:before {
