@@ -1,7 +1,7 @@
-<footer>
+
 
             <!-- Copyright -->
-            <section id="copyright" class="p-3 odd copyright">
+            <section id="copyright" class="p-3 odd copyright" style="background-color:#606d75;">
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-md-6 p-3 text-center text-lg-left">

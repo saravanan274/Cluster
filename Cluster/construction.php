@@ -62,14 +62,14 @@
 
 <div style=" margin-left:200px;background-color:#eef4ed;margin-top:80px;">
     <span class="featured" style="width:300px;height:300px; ">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="width:100px; "><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M448 416C448 451.3 419.3 480 384 480H64C28.65 480 0 451.3 0 416V96C0 60.65 28.65 32 64 32H384C419.3 32 448 60.65 448 96V416zM256 160C256 142.3 241.7 128 224 128H128C110.3 128 96 142.3 96 160C96 177.7 110.3 192 128 192H224C241.7 192 256 177.7 256 160zM128 224C110.3 224 96 238.3 96 256C96 273.7 110.3 288 128 288H320C337.7 288 352 273.7 352 256C352 238.3 337.7 224 320 224H128zM192 352C192 334.3 177.7 320 160 320H128C110.3 320 96 334.3 96 352C96 369.7 110.3 384 128 384H160C177.7 384 192 369.7 192 352z"/></svg>    </span>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" style="width:100px; "><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"/></svg>
     </span>
 </div>
 
 <div class="" style=" margin-left:200px;background-color:#eef4ed;">
-    <h4>Our talent acquisition services include</h4>
+    <h4>Our talent acquisition services include</h3>
                          <ul>  
-                            <li style="font-size:20px;"> Screening qualified potential candidates</li>
+                            <li style="font-size:20px;">  Screening qualified potential candidates</li>
                             <li style="font-size:20px;">Retained search and headhunter services </li>
                             <li style="font-size:20px;">Contingent staffing and contractor management</li>
                             <li style="font-size:20px;">Professional search and permanent recruitment</li>
@@ -81,7 +81,7 @@
 </div>
 </div>
 <h3 style=" margin-left:260px;">Global employment and mobility</h3>
-<p style=" margin-left:260px;font-size:20px;">Need to move existing staff from one country to another for a specific project? Cluster Infotech is experienced in global immigration, relocation and employment outsourcing services.
+<p style=" margin-left:260px;font-size:20px;">Need to move existing staff from one country to another for a specific project? cluster info tech is experienced in global immigration, relocation and employment outsourcing services.
 
 </p>
 
@@ -90,18 +90,25 @@
 
 <div style=" margin-left:200px;background-color:#eef4ed;margin-top:80px;">
     <span class="featured" style="width:300px;height:300px; ">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width:100px; "><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256zM177.8 63.19L187.8 80.62C190.5 85.46 192 90.93 192 96.5V137.9C192 141.8 193.6 145.6 196.3 148.3C202.6 154.6 212.8 153.1 218.3 147.1L231.9 130.1C236.6 124.2 244.8 122.4 251.6 125.8L266.8 133.4C270.2 135.1 273.1 136 277.8 136C284.3 136 290.6 133.4 295.2 128.8L299.1 124.9C302 121.1 306.5 121.2 310.1 123.1L339.4 137.7C347.1 141.6 352 149.5 352 158.1C352 168.6 344.9 177.8 334.7 180.3L299.3 189.2C291.9 191 284.2 190.7 276.1 188.3L244.1 177.7C241.7 176.6 238.2 176 234.8 176C227.8 176 220.1 178.3 215.4 182.5L176 212C165.9 219.6 160 231.4 160 244V272C160 298.5 181.5 320 208 320H240C248.8 320 256 327.2 256 336V384C256 401.7 270.3 416 288 416C298.1 416 307.6 411.3 313.6 403.2L339.2 369.1C347.5 357.1 352 344.5 352 330.7V318.6C352 314.7 354.6 311.3 358.4 310.4L363.7 309.1C375.6 306.1 384 295.4 384 283.1C384 275.1 381.2 269.2 376.2 264.2L342.7 230.7C338.1 226.1 338.1 221 342.7 217.3C348.4 211.6 356.8 209.6 364.5 212.2L378.6 216.9C390.9 220.1 404.3 215.4 410.1 203.8C413.6 196.8 421.3 193.1 428.1 194.6L456.4 200.1C431.1 112.4 351.5 48 256 48C228.3 48 201.1 53.4 177.8 63.19L177.8 63.19z"/></svg></div>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" style="width:100px; "><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"/></svg>
+    </span>
+</div>
 
 <div class="" style=" margin-left:200px;background-color:#eef4ed;">
-    <h4>Our global employment and mobility services include:</h4>
+    <h4>Our global employment and mobility services include:</h3>
                          <ul>  
                             <li style="font-size:20px;">Global immigration and visa services</li>
                             <li style="font-size:20px;">Mobilisation and logistics services</li>
                             <li style="font-size:20px;">Relocation management</li>
                             <li style="font-size:20px;">Professional search and permanent recruitment</li>
                             <li style="font-size:20px;">Payroll and taxation services</li>
-                            <li style="font-size:20px;">Global Employment Outsourcing (GEO)</li>
                             </ul>
+                            
+
+
+
+Global Employment Outsourcing (GEO)
+
 </div>
 
 </div>
@@ -112,11 +119,12 @@
 
 <div style=" margin-left:200px;background-color:#eef4ed;margin-top:80px;">
     <span class="featured" style="width:300px;height:300px; ">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"style="width:100px; "><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M152.1 38.16C161.9 47.03 162.7 62.2 153.8 72.06L81.84 152.1C77.43 156.9 71.21 159.8 64.63 159.1C58.05 160.2 51.69 157.6 47.03 152.1L7.029 112.1C-2.343 103.6-2.343 88.4 7.029 79.03C16.4 69.66 31.6 69.66 40.97 79.03L63.08 101.1L118.2 39.94C127 30.09 142.2 29.29 152.1 38.16V38.16zM152.1 198.2C161.9 207 162.7 222.2 153.8 232.1L81.84 312.1C77.43 316.9 71.21 319.8 64.63 319.1C58.05 320.2 51.69 317.6 47.03 312.1L7.029 272.1C-2.343 263.6-2.343 248.4 7.029 239C16.4 229.7 31.6 229.7 40.97 239L63.08 261.1L118.2 199.9C127 190.1 142.2 189.3 152.1 198.2V198.2zM224 96C224 78.33 238.3 64 256 64H480C497.7 64 512 78.33 512 96C512 113.7 497.7 128 480 128H256C238.3 128 224 113.7 224 96V96zM224 256C224 238.3 238.3 224 256 224H480C497.7 224 512 238.3 512 256C512 273.7 497.7 288 480 288H256C238.3 288 224 273.7 224 256zM160 416C160 398.3 174.3 384 192 384H480C497.7 384 512 398.3 512 416C512 433.7 497.7 448 480 448H192C174.3 448 160 433.7 160 416zM0 416C0 389.5 21.49 368 48 368C74.51 368 96 389.5 96 416C96 442.5 74.51 464 48 464C21.49 464 0 442.5 0 416z"/></svg>    </span>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" style="width:100px; "><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"/></svg>
+    </span>
 </div>
 
 <div class="" style=" margin-left:200px;background-color:#eef4ed;">
-    <h4>Our managed solutions and recruiting services include:</h4>
+    <h4>Our managed solutions and recruiting services include:</h3>
                          <ul>  
                             <li style="font-size:20px;">Full life cycle recruitment support</li>
                             <li style="font-size:20px;">Supplier performance tracking</li>
@@ -130,17 +138,19 @@
 </div>
 </div>
 <h3 style=" margin-left:260px;">Consulting: talent mapping, benchmarking and strategy development </h3>
-<p style=" margin-left:260px;font-size:20px;">The construction talent landscape is constantly changing, and having access to key industry data can keep you one step ahead. Cluster Infotech consultants can provide you with talent mapping services and other hiring intelligence to help you build your own effective construction recruitment strategies.</p>
+<p style=" margin-left:260px;font-size:20px;">The construction talent landscape is constantly changing, and having access to key industry data can keep you one step ahead. cluster info tech’s consultants can provide you with talent mapping services and other hiring intelligence to help you build your own effective construction recruitment strategies.</p>
 
 <div style="display:flex; margin-left:100px;background-color:#eef4ed;">
 
 
 <div style=" margin-left:200px;background-color:#eef4ed;margin-top:80px;">
     <span class="featured" style="width:300px;height:300px; ">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"style="width:100px; "><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M232.5 5.171C247.4-1.718 264.6-1.718 279.5 5.171L498.1 106.2C506.6 110.1 512 118.6 512 127.1C512 137.3 506.6 145.8 498.1 149.8L279.5 250.8C264.6 257.7 247.4 257.7 232.5 250.8L13.93 149.8C5.438 145.8 0 137.3 0 127.1C0 118.6 5.437 110.1 13.93 106.2L232.5 5.171zM498.1 234.2C506.6 238.1 512 246.6 512 255.1C512 265.3 506.6 273.8 498.1 277.8L279.5 378.8C264.6 385.7 247.4 385.7 232.5 378.8L13.93 277.8C5.438 273.8 0 265.3 0 255.1C0 246.6 5.437 238.1 13.93 234.2L67.13 209.6L219.1 279.8C242.5 290.7 269.5 290.7 292.9 279.8L444.9 209.6L498.1 234.2zM292.9 407.8L444.9 337.6L498.1 362.2C506.6 366.1 512 374.6 512 383.1C512 393.3 506.6 401.8 498.1 405.8L279.5 506.8C264.6 513.7 247.4 513.7 232.5 506.8L13.93 405.8C5.438 401.8 0 393.3 0 383.1C0 374.6 5.437 366.1 13.93 362.2L67.13 337.6L219.1 407.8C242.5 418.7 269.5 418.7 292.9 407.8V407.8z"/></svg></div>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" style="width:100px; "><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"/></svg>
+    </span>
+</div>
 
 <div class="" style=" margin-left:200px;background-color:#eef4ed;">
-    <h4>Our consulting services include:</h4>
+    <h4>Our consulting services include:</h3>
                          <ul>  
                             <li style="font-size:20px;">Talent mapping</li>
                             <li style="font-size:20px;">Salary and market rate benchmarking</li>

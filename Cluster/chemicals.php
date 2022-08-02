@@ -145,7 +145,7 @@
                         <div class="card">
                             <i class="icon featured icon-people"></i>
                             <h4>Case Study: Engaged Search for a chemical company in Belgium</h4>
-                            <p>One of the world’s top producers of olefins and polyolefins needed a recruitment partner to fill Sales Manager vacancies. Airswift provided an Engaged.</p>
+                            <p>One of the world’s top producers of olefins and polyolefins needed a recruitment partner to fill Sales Manager vacancies. cluster info tech provided an Engaged.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">

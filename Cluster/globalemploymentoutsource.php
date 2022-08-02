@@ -143,7 +143,7 @@
 <!-- Sidebar -->
             <aside class="col-12 col-lg-4 pl-lg-5 p-0 float-right sidebar"> 
             <div class="row" >
-            <p style="font-size:17px; font-family:sans-serif">Cluster Info have supported us with the sourcing and payroll of over 500 contractors during the term of our relationship. Our confidence and trust in Cluster Info resulted in EnQuest selecting Airswift as our sole supplier of contract personnel.
+            <p style="font-size:17px; font-family:sans-serif">Cluster Info have supported us with the sourcing and payroll of over 500 contractors during the term of our relationship. Our confidence and trust in Cluster Info resulted in EnQuest selecting cluster info tech as our sole supplier of contract personnel.
 
 We realised substantial cost savings through the transfer, as well as vastly improved service levels to both EnQuest and our contractors during a low oil price environment. This also made our ways of working much more streamlined and efficient as we now have a one-stop shop for the recruitment of our contractor population.
 

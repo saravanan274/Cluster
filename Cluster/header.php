@@ -227,11 +227,11 @@
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="oilandgas.php">Oil & Gas<i class="icon-arrow-right"></i></a></li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link" href="#">Power<i class="icon-arrow-right"></i></a></li>
+                                <a class="nav-link" href="power.php">Power<i class="icon-arrow-right"></i></a></li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="process,mining.php">Process, Mining & Manufacturing<i class="icon-arrow-right"></i></a></li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link" href="#">Rail<i class="icon-arrow-right"></i></a></li>
+                                <a class="nav-link" href="rail.php">Rail<i class="icon-arrow-right"></i></a></li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="renewableenergy.php">Renewable Energy<i class="icon-arrow-right"></i></a></li>
                             <li class="nav-item dropdown">
