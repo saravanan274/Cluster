@@ -64,7 +64,7 @@
                                 <li>3.Access a global workforce network and the expertise to attract and retain specialist talent</li> 
                                 <li>4.Identify employee engagement levels and enhance your hiring value proposition</li> 
                                 </ul>
-                                <h3>Workforce consultancy services provided by Airswift</h3>
+                                <h3>Workforce consultancy services provided by Cluster Infotech</h3>
 
     </div>
     <div style="display:flex; margin-left:100px;background-color:#eef4ed;">
@@ -98,7 +98,7 @@
 
 <div class="" style=" margin-left:200px;background-color:#eef4ed;padding:25px;">
     <h3>Compensation & Benefits Studies</h3>
-<p>Benchmarking raises awareness of market compensation trends and its impact on workforce management and performance. Airswift compiles a thorough benchmarking evaluation, including expense/allowance packages.</p>
+<p>Benchmarking raises awareness of market compensation trends and its impact on workforce management and performance. Cluster Infotech compiles a thorough benchmarking evaluation, including expense/allowance packages.</p>
 </div>
 
 </div>
@@ -219,7 +219,7 @@
                             <i class="icon featured icon-people"></i>
                             <h4>Case Study: Engaged Search for a chemical company in Belgium</h4>
                             <p>
-                            One of the world’s top producers of olefins and polyolefins needed a recruitment partner to fill Sales Manager vacancies. Airswift provided an Engaged ...
+                            One of the world’s top producers of olefins and polyolefins needed a recruitment partner to fill Sales Manager vacancies. Cluster Infotech provided an Engaged ...
                     .</p>
                         </div>
                     </div>
@@ -227,8 +227,8 @@
                         <div class="card">
                             <i class="icon featured icon-pie-chart"></i>
                             <h4>Case Study: Employer of record services for Landmark College</h4>
-                            <p>
-Airswift helped Sapura Energy hire a highly skilled workforce in Angola's challenging market.                        </div>
+                            <p>Cluster Infotech helped Sapura Energy hire a highly skilled workforce in Angola's challenging market.</p>
+                        </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
                         <div class="card">

@@ -17,7 +17,7 @@
 
                         <!-- Content -->
 
-                        <h1 class="mb-0 title effect-static-text">Construction</h1>
+                        <h1 class="mb-0 title effect-static-text">Oil & Gas</h1>
                     </div>
                 </div>
             </div>
@@ -25,33 +25,25 @@
         </div>
     </div>
 </section>
-<!--main-->
-<section id="single" class="section-1 single"style="padding:20px; ">
+<!--content-->
+<section id="single" class="section-1 single" style="padding:20px; ">
     <div class="container">
-        <h3>Cluster Infotech is a construction recruitment specialist</h3>
-        <p style="font-size:20px;">When it comes to construction recruitment, working with an experienced workforce solutions provider can help you to</p>
-        <ul>
-            <li>Source the best in local and international construction talent</li>
-            <li>Ensure your project runs smoothly and on budget</li>
-</ul>
-        <p style="font-size:20px;">Cluster Infotech has 40 years’ experience in providing recruitment solutions to major global companies, from oil and gas supermajors to large-scale construction and infrastructure projects.</p>
-    <p style="font-size:20px;">Our team of recruitment experts come from 70 different nations and draw from our extensive in-house experience and cross-industry hiring intelligence to find the best candidates for a wide range of professional roles.</p>
-    <h3>Global coverage </h3>
-    <p style="font-size:20px;">Cluster Infotech has 60 interconnected recruitment offices across the world, which are complemented by super hubs in Houston, Texas, Manchester, UK, and Singapore. Our global coverage, combined with our 96% contractor satisfaction rate, make us an effective and trusted recruitment partner for the world’s biggest construction and infrastructure companies.</p>
-    <h4> We work with</h4>
-    <ul>
-            <li>Property developers</li>
-            <li>Construction contractors</li>
-            <li>Engineering, architectural and cost consultancies</li>
-            <li>EPCs</li>
-    </ul>
-<h4> On a range of construction projects</h4>
-    <ul>
-            <li>Buildings</li>
-            <li>Infrastructure (road, rail, highway, pipelines)</li>
-            <li>Onshore construction</li>
-            <li>Offshore oil rigs and wind turbines</li>
-    </ul>
+        <h3>Trusted worldwide as the best international oil and gas recruitment agency</h3>
+        <p style="font-size:20px;">For over 40 years, Cluster Infotech has partnered with leading exploration and production companies within the oil and gas industry.</p>
+        <p style="font-size:20px;">Our focus is on sourcing and providing the talent and services that deliver efficiency and innovation in safety-focused environments.</p>
+        <p style="font-size:20px;">Cluster Infotech provides the following services to onshore, offshore, natural gas, upstream, midstream and downstream clients in the energy sector:</p>
+       <ul>
+        <li style="font-size:20px;">Talent Acquisition</li>
+        <li style="font-size:20px;">Global Employment and Mobility</li>
+        <li style="font-size:20px;">Managed Solutions</li>
+        <li style="font-size:20px;">Consulting</li>
+       </ul>
+    </div>
+    <div class="container">
+        <h3>Global Coverage</h3>
+        <p style="font-size:20px;">Cluster Infotech's global offices present a key advantage to our clients. With over 60 strategic global offices, we are equipped to deliver the best talent in the oil and gas sector.</p>
+        <p style="font-size:20px;">From Asia Pacific to North America and the North Sea, we can deliver technical personnel to any energy industry project.</p>
+    </div>
 </section>
 <section id="single" class="section-1 single" style="padding:20px; ">
 <h3 style=" margin-left:260px;">Talent acquisition and recruitment for the construction industry</h3>
@@ -130,7 +122,7 @@
 </div>
 </div>
 <h3 style=" margin-left:260px;">Consulting: talent mapping, benchmarking and strategy development </h3>
-<p style=" margin-left:260px;font-size:20px;">The construction talent landscape is constantly changing, and having access to key industry data can keep you one step ahead. Cluster Infotech consultants can provide you with talent mapping services and other hiring intelligence to help you build your own effective construction recruitment strategies.</p>
+<p style=" margin-left:260px;font-size:20px;">The construction talent landscape is constantly changing, and having access to key industry data can keep you one step ahead.Cluster Infotech’s consultants can provide you with talent mapping services and other hiring intelligence to help you build your own effective construction recruitment strategies.</p>
 
 <div style="display:flex; margin-left:100px;background-color:#eef4ed;">
 
@@ -149,120 +141,75 @@
                             <li style="font-size:20px;">Strategic workforce planning</li>
                             <li style="font-size:20px;">Performance and risk management advice</li>
                             </ul>
-                            
-
-
-
-
-
-
-
-</div>
-
 </div>
 </div>
-
-
-    
-
-
-
 </div>
-
+</div>
 </section>
-<!-- Contact -->
-<section id="contact" class="section-3 form contact" style="background-color:white;">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-8 pr-md-5 align-self-center text">
-                <div class="row intro">
-                    <div class="col-12 p-0">
-                        <span class="pre-title m-0">Send a message</span>
-                        <h2>Get in <span class="featured"><span>Touch</span></span></h2>
-                        <p>We will respond to your message as soon as possible.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12 p-0">
-                        <form action="php/form.php" id="clusteruae-simple-form" class="clusteruae-simple-form">
-                            <input type="hidden" name="section" value="clusteruae_form">
-
-                            <input type="hidden" name="reCAPTCHA">
-                            <!-- Remove this field if you want to disable recaptcha -->
-
-                            <div class="row form-group-margin">
-                                <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                    <input type="text" name="name" class="form-control field-name" placeholder="Name">
-                                </div>
-                                <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                    <input type="email" name="email" class="form-control field-email"
-                                        placeholder="Email">
-                                </div>
-                                <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                    <input type="text" name="phone" class="form-control field-phone"
-                                        placeholder="Phone">
-                                </div>
-                                <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                    <i class="icon-arrow-down mr-3"></i>
-                                    <select name="info" class="form-control field-info">
-                                        <option value="" selected="" disabled="">More Info</option>
-                                        <option>Audit & Assurance</option>
-                                        <option>Financial Advisory</option>
-                                        <option>Analytics and M&A</option>
-                                        <option>Middle Marketing</option>
-                                        <option>Legal Consulting</option>
-                                        <option>Regulatory Risk</option>
-                                        <option>Other</option>
-                                    </select>
-                                </div>
-                                <div class="col-12 m-0 p-2 input-group">
-                                    <textarea name="message" class="form-control field-message"
-                                        placeholder="Message"></textarea>
-                                </div>
-                                <div class="col-12 col-12 m-0 p-2 input-group">
-                                    <span class="form-alert"></span>
-                                </div>
-                                <div class="col-12 input-group m-0 p-2">
-                                    <a class="btn primary-button">SEND</a>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-4">
-                <div class="contacts">
-                    <h4>Example Inc.</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p>Praesent diam lacus, dapibus sed imperdiet consectetur.</p>
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="fas fa-phone-alt mr-2"></i>
-                                +1 (305) 1234-5678
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="fas fa-envelope mr-2"></i>
-                                <span class="__cf_email__"
-                                    data-cfemail="a0c8c5cccccfe0c5d8c1cdd0ccc58ec3cfcd">[email&#160;protected]</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="fas fa-map-marker-alt mr-2"></i>
-                                Main Avenue, 987
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="mt-2 btn outline-button" data-toggle="modal" data-target="#map">VIEW
-                                MAP</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+<section id="single" class="section-1 single" style="padding:20px; ">
+<div class="container">
+        <h3>Technical recruitment expertise guaranteed</h3>
+        <p style="font-size:20px;">Cluster Infotech supplies experienced energy professionals, necessary equipment and quality services for major projects</p>
+        <p style="font-size:20px;">Our compliance-focused services and cost savings initiatives produce a streamlined process for our clients. </p>
+        <p style="font-size:20px;">Safety is a core value of ours, and every employee undergoes appropriate training to safely manage ongoing field operations.</p>
+       <p style="font-size:20px;">Local site supervisors continuously provide a high level of contractor care. This facilitates high run time for our clients across various site locations including</p>
+       <ul>
+        <li style="font-size:20px;">Onshore and Offshore Oil and Gas </li>
+        <li style="font-size:20px;">Refineries & Production Facilities</li>
+        <li style="font-size:20px;">Liquefied Natural Gas Production</li>
+        <li style="font-size:20px;">Pipelines</li>
+        <li style="font-size:20px;">Floating Production Storage and Offloading Vessels (FPSO)</li>
+        <li style="font-size:20px;">Fabrication Yards</li>
+       </ul>
     </div>
 </section>
+<section id="single" class="section-1 single" style="padding:20px; ">
+<div class="container">
+           <h3>Recruitment, staffing and employment services delivered to major oil and gas projects</h3>
+           <ul>
+        <li style="font-size:20px;">Exclusively staffed contingent workers for three large Canadian pipeline projects over four years and onboarded pre-identified and recruited candidates </li>
+        <li style="font-size:20px;">Cluster Infotech was appointed staffing provider for the duration of an FLNG project for a large supermajor within Asia Pacific. In addition to staffing,Cluster Infotech provided full mobilisation support and consulting services.</li>
+        <li style="font-size:20px;">Sole labour supplier to a West African LNG project. This included full global employment services for 250+ gas professionals in technical and non-technical disciplines.</li>
+        <li style="font-size:20px;">Largest provider of technical expertise to an LNG project in Asia Pacific. We opened a local office in Port Moresby to provide staffing, training workshops, global employment services and consulting support</li>
+        <li style="font-size:20px;">Supplier of permanent, fixed-term and contract technical personnel for all phases of a global LNG project. This included engineering professionals in Australia, United Kingdom, South Korea, Malaysia and Thailand.</li>
+        <li style="font-size:20px;">Provided all safety, construction and engineering personnel to a multi-billion-dollar downstream project in Texas. The project is split into two parts, an ethylene cracker installation and a polyethylene expansion</li>
+        <li style="font-size:20px;">Delivered a fully compliant on-boarding process for 2,000+ workers and third-party contractors on a refinery mobilization project in Indiana. This resulted in an incident free transition with zero disruption to business and 100 percent transfer rate. There was $1.4m initial cost savings through rate benchmarking. Throughout the duration of the contract, the client made total savings of $4m </li>
+        <li style="font-size:20px;">Supplied all contingent workers and managed all on-boarding compliance requirements for a turnaround project in Texas. A team of 30 turnaround specialists was provided to effectively support the project resulting in $400,000 of savings.</li>
+          </ul>
+</section>
+<section id="single" class="section-1 single" style="padding:20px; ">
+<div class="container">
+           <h3>The Global Energy Talent Index (GETI) report</h3>
+           <ul>
+           <li style="font-size:20px;">Every year, Cluster Infotech co-produces an annual employment trends and benchmarking report.</li>
+           </u1>
+</section>
+<section id="features" class="section-1 features offers featured" >
+            <div class="container" >
+                <h3>You may also be interested in...</h3>
+                <div class="row justify-content-center items">
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-people"></i>
+                            <h4>Case Study: Sapura Energy - Angola</h4>
+                            <p>Cluster Infotech helped Sapura Energy hire a highly skilled workforce in Angola's challenging market.</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-pie-chart"></i>
+                            <h4>Case Study: Consulting services in a US Wellbore Prevention firm</h4>
+                            <p>Cluster Infotech provided consulting services for a client in the oil and gas sector in the US ensuring an accurate and efficient payroll for all employees.</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-speedometer"></i>
+                            <h4>Case Study: Outplacement</h4>
+                            <p>Cluster Infotech provided a clear framework for a tailored and unique Outplacement Program for our client in Malaysia.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 <?php include 'footer.php';?>

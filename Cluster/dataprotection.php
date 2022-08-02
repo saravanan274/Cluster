@@ -84,7 +84,7 @@
                                     </li>
                                     <li class="list-group-item d-flex justify-content-center align-items-center">
                                         <a href="#"><i class="icon icon-plane"></i></a>
-                                        Full monitoring of the backup by eVantage Technology.
+                                        Full monitoring of the backup by Cluster Infotech.
                                     </li>
                                     <li class="list-group-item d-flex justify-content-center align-items-center">
                                         <a href="#"><i class="icon icon-chart"></i></a>

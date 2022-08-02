@@ -61,7 +61,7 @@
                     <div class="col-12 col-md-6 col-lg-2 item">
                         <div class="step"><span>04</span></div>
                         <h4>More Mobility</h4>
-                        <p>Employees can access information wherever they are, rather than having to remain at their desks. eVantage Technology offers a range of Cloud computing solutions to meet your business needs regardless of your size or complexity.</p>
+                        <p>Employees can access information wherever they are, rather than having to remain at their desks.Cluster Infotech offers a range of Cloud computing solutions to meet your business needs regardless of your size or complexity.</p>
                     </div>
                     <div class="col-12 col-md-6 col-lg-2 item">
                         <div class="step"><span>05</span></div>

@@ -22,7 +22,7 @@
                             <div class="col-12 align-self-center">
                                 <p style="">
 In a nutshell, business continuity refers to whether a company can continue with business operations at an acceptable level following a disruptive incident.
-Here at eVantage Technology, we provide business continuity management services to small and medium-sized businesses in Singapore.
+Here at Cluster Infotech, we provide business continuity management services to small and medium-sized businesses in Singapore.
 From immediate virtualisation to screenshot verification technologies, our business continuity management services can be customised according to your data backup and business continuity needs. Our architecture ensures there is no single point of failure, backing up your data on site and replicating it to an off-site location.</p>                               
                             </div>
                         </div>

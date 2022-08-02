@@ -43,7 +43,7 @@
                     <div class="col-12">
                         <h2>Collaborative  <span class="featured"><span> Document Control</span></span></h2>
                         <p class="text-max-800">If you and your colleagues frequently collaborate on the same documents simultaneously, then you may need something a little more than simple file storage – you may need a dedicated document collaboration tool.
-eVantage Technology recommends SharePoint Online, part of the Microsoft Office 365 suite, to give you a central place to share documents and information with colleagues and customers.</p>
+Cluster Infotech recommends SharePoint Online, part of the Microsoft Office 365 suite, to give you a central place to share documents and information with colleagues and customers.</p>
                     </div>
                 </div>
                 <div class="row justify-content-center items">

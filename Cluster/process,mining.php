@@ -17,7 +17,7 @@
 
                         <!-- Content -->
 
-                        <h1 class="mb-0 title effect-static-text">Construction</h1>
+                        <h1 class="mb-0 title effect-static-text">Process, Mining & Manufacturing</h1>
                     </div>
                 </div>
             </div>
@@ -25,33 +25,23 @@
         </div>
     </div>
 </section>
-<!--main-->
-<section id="single" class="section-1 single"style="padding:20px; ">
+<section id="single" class="section-1 single" style="padding:20px; ">
     <div class="container">
-        <h3>Cluster Infotech is a construction recruitment specialist</h3>
-        <p style="font-size:20px;">When it comes to construction recruitment, working with an experienced workforce solutions provider can help you to</p>
-        <ul>
-            <li>Source the best in local and international construction talent</li>
-            <li>Ensure your project runs smoothly and on budget</li>
-</ul>
-        <p style="font-size:20px;">Cluster Infotech has 40 years’ experience in providing recruitment solutions to major global companies, from oil and gas supermajors to large-scale construction and infrastructure projects.</p>
-    <p style="font-size:20px;">Our team of recruitment experts come from 70 different nations and draw from our extensive in-house experience and cross-industry hiring intelligence to find the best candidates for a wide range of professional roles.</p>
-    <h3>Global coverage </h3>
-    <p style="font-size:20px;">Cluster Infotech has 60 interconnected recruitment offices across the world, which are complemented by super hubs in Houston, Texas, Manchester, UK, and Singapore. Our global coverage, combined with our 96% contractor satisfaction rate, make us an effective and trusted recruitment partner for the world’s biggest construction and infrastructure companies.</p>
-    <h4> We work with</h4>
-    <ul>
-            <li>Property developers</li>
-            <li>Construction contractors</li>
-            <li>Engineering, architectural and cost consultancies</li>
-            <li>EPCs</li>
-    </ul>
-<h4> On a range of construction projects</h4>
-    <ul>
-            <li>Buildings</li>
-            <li>Infrastructure (road, rail, highway, pipelines)</li>
-            <li>Onshore construction</li>
-            <li>Offshore oil rigs and wind turbines</li>
-    </ul>
+        <h3>Experts in talent solutions for process industries</h3>
+        <p style="font-size:20px;">For over 40 years, Cluster Infotech has worked with the world’s leading process and mining employers delivering efficiency and innovation in safety-focused environments.</p>
+        <p style="font-size:20px;">Cluster Infotech continues to build our service experience delivering tailored workforce solutions to various projects and clients within the following industries:</p>
+       <ul>
+        <li style="font-size:20px;">Talent Acquisition</li>
+        <li style="font-size:20px;">Global Mobility</li>
+        <li style="font-size:20px;">Managed Solutions</li>
+        <li style="font-size:20px;">Consulting</li>
+       </ul>
+    </div>
+    <div class="container">
+        <h3>Global Coverage</h3>
+        <p style="font-size:20px;">We have an established international presence, with 60 interconnected recruitment offices across the Asia Pacific, the CIS region, Europe, Africa, the Middle East, and North and Latin America. Our regional offices are supported by three super hubs in Houston, Manchester, and Singapore.</p>
+        <p style="font-size:20px;">This connected infrastructure provides you with unique project insights and agile process recruitment. Whatever the project, we can help you find and mobilise the absolute best in process talent.</p>
+    </div>
 </section>
 <section id="single" class="section-1 single" style="padding:20px; ">
 <h3 style=" margin-left:260px;">Talent acquisition and recruitment for the construction industry</h3>
@@ -82,7 +72,6 @@
 </div>
 <h3 style=" margin-left:260px;">Global employment and mobility</h3>
 <p style=" margin-left:260px;font-size:20px;">Need to move existing staff from one country to another for a specific project? Cluster Infotech is experienced in global immigration, relocation and employment outsourcing services.
-
 </p>
 
 <div style="display:flex; margin-left:100px;background-color:#eef4ed;">
@@ -130,7 +119,7 @@
 </div>
 </div>
 <h3 style=" margin-left:260px;">Consulting: talent mapping, benchmarking and strategy development </h3>
-<p style=" margin-left:260px;font-size:20px;">The construction talent landscape is constantly changing, and having access to key industry data can keep you one step ahead. Cluster Infotech consultants can provide you with talent mapping services and other hiring intelligence to help you build your own effective construction recruitment strategies.</p>
+<p style=" margin-left:260px;font-size:20px;">The construction talent landscape is constantly changing, and having access to key industry data can keep you one step ahead.Cluster Infotech’s consultants can provide you with talent mapping services and other hiring intelligence to help you build your own effective construction recruitment strategies.</p>
 
 <div style="display:flex; margin-left:100px;background-color:#eef4ed;">
 
@@ -149,120 +138,114 @@
                             <li style="font-size:20px;">Strategic workforce planning</li>
                             <li style="font-size:20px;">Performance and risk management advice</li>
                             </ul>
-                            
-
-
-
-
-
-
-
-</div>
-
 </div>
 </div>
-
-
-    
-
-
-
 </div>
-
 </section>
-<!-- Contact -->
-<section id="contact" class="section-3 form contact" style="background-color:white;">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-8 pr-md-5 align-self-center text">
-                <div class="row intro">
-                    <div class="col-12 p-0">
-                        <span class="pre-title m-0">Send a message</span>
-                        <h2>Get in <span class="featured"><span>Touch</span></span></h2>
-                        <p>We will respond to your message as soon as possible.</p>
+<section id="single" class="section-1 single" style="padding:20px; ">
+<div class="container">
+        <h3>Chemicals Projects/Services Provided</h3>
+        <p style="font-size:20px;">A skills shortage was limiting the development of a large petrochemicals project in South East Asia. Cluster Infotech built a database of local candidates resulting in a turnaround of 12 hours for most of the positions. Cluster Infotech dedicated a logistics team available 24/7 to assist with visa applications and quick mobilisation of contractors.</p>
+        <p style="font-size:20px;">Fully integrated recruitment and supply chain services for a global integrated fibre, resin and intermediates company looking to streamline their requisition and onboarding process. An Cluster Infotech representative sits in-house to provide on-site support and reporting and all contractors and requisitions are managed by Cluster Infotech.</p>
+</div>
+<div class="container">
+        <h3>Capabilities and Experience in Life Sciences</h3>
+        <p style="font-size:20px;"> Cluster Infotech works across a range of life sciences sectors including pharmaceuticals, medical devices and biotechnology. We source talent and provide consultancy and global mobility services for companies with commercial, technical, R&D and manufacturing workforce needs.</p>
+        <h4>Life Sciences Projects/Services Provided</h4>
+        <p style="font-size:20px;">Exclusive staffing provider for the construction and commission of a pharmaceutical processing plant in Scandinavia. Cluster Infotech provided contract recruitment, payroll and consulting on employment law, talent mapping, rate benchmarking, taxation and localisation services. The Cluster Infotech solution resulted in avoidance of the expense and time to set up a local entity and benefited from our strong local knowledge and pre-existing services.</p>
+</div>
+<div class="container">
+        <h3>Mining & Metals</h3>
+        <p style="font-size:20px;">Cluster Infotech has experience supporting various mining, metal and oil sands projects on a global scale. We are highly specialised in recruiting senior and technical “hard-to-fill” roles for remote and regional sites as well as corporate office, executive, management and specialist roles.</p>
+        <h4>Mining professionals supplied</h4>
+        <ul>
+            <li style="font-size:20px;">Mining Open cut, Underground, Longwall (metalliferous, coal, iron ore)</li>
+            <li style="font-size:20px;">Mineral Processing/Refining (metalliferous, coal, iron ore)</li>
+            <li style="font-size:20px;">Maintenance & Reliability (fixed and mobile plants)</li>
+            <li style="font-size:20px;">Executive Positions (CEO, GM, FO, HR, BD, COO)</li>
+            <li style="font-size:20px;">Health, Safety, Environment & Security</li>
+            <li style="font-size:20px;">Project Executives, Managers & Specialists (feasibility studies, operational readiness, green and brown field, delivery, commissioning)</li>
+            <li style="font-size:20px;">Consultants, Business Improvement, Analysts, Commodity Sales and Investment</li>
+</div>
+<div class="container">
+        <h4>Key Mining Projects</h4>
+        <ul>
+            <li style="font-size:20px;">Recruitment of owner’s project team and key operational staff for $6.5 billion brownfield development of<b> largest metals manufacturing complex in Middle East</li>
+
+            <li style="font-size:20px;">Supply of 50 permanent expatriate staff for<b> greenfield bauxite mine in West Africa.</li>
+
+            <li style="font-size:20px;">Recruitment Process Outsourcing (RPO) for a<b> gold mine in Australasia</li>
+
+            <li style="font-size:20px;">Recruitment of 600+ engineering staff for <b>greenfield phosphate mine in hardship location</li>
+
+            <li style="font-size:20px;">Supply of all 200+ technical staff for greenfield aluminium extrusion plant on a retained basis</li>
+
+            <li style="font-size:20px;">Managed several Executive search projects for executive roles across<b> multiple mine sites in South East Asia</li>
+
+</ul>
+</div>
+<div class="container">
+    <h3>Manufacturing</h3>
+    <p style="font-size:20px;">Cluster Infotech specialises in recruiting technical and management roles within manufacturing</p>
+        <h4>Manufacturing professionals supplied</h4>
+        <ul>
+            <li style="font-size:20px;">Automation</li>
+            <li style="font-size:20px;">Industrial Machinery</li>
+            <li style="font-size:20px;">Continuous Improvement</li>
+            <li style="font-size:20px;">Engineering</li>
+            <li style="font-size:20px;">Health & Safety</li>
+            <li style="font-size:20px;">Human Resources</li>
+            <li style="font-size:20px;">Maintenance</li>
+            <li style="font-size:20px;">Plant Management</li>
+            <li style="font-size:20px;">Project Management</li>
+            <li style="font-size:20px;">Quality Management</li>
+            <li style="font-size:20px;">Research & Development</li>
+            <li style="font-size:20px;">Sales and Business Development</li>
+</ul>
+</div>
+<div class="container">
+        <h4>Manufacturing Sectors</h4>
+        <ul>
+            <li style="font-size:20px;"> Automotive</li>
+            <li style="font-size:20px;">Batteries and Energy Storage</li>
+            <li style="font-size:20px;">Filtration</li>
+            <li style="font-size:20px;">Food and Beverage</li>
+            <li style="font-size:20px;">Health & Safety</li>
+            <li style="font-size:20px;">Life Sciences</li>
+            <li style="font-size:20px;">Pulp, Paper and Packaging</li>
+            <li style="font-size:20px;">Sensors, Electronics & Internet of</li>
+            <li style="font-size:20px;">Things (IOT)</li>
+            <li style="font-size:20px;">Textiles and Nonwovens</li>
+
+</ul>
+</div>
+</section>
+<section id="features" class="section-1 features offers featured" >
+            <div class="container" >
+                <h3>You may also be interested in...</h3>
+                <div class="row justify-content-center items">
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-people"></i>
+                            <h4>Case Study:  Multi-hire Campaign for Packaging Company</h4>
+                            <p>Cluster Infotech was approached to recruit for a Fortune 500 leader in paper-based packaging to support a multi-hire campaign.</p>
+                        </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-12 p-0">
-                        <form action="php/form.php" id="clusteruae-simple-form" class="clusteruae-simple-form">
-                            <input type="hidden" name="section" value="clusteruae_form">
-
-                            <input type="hidden" name="reCAPTCHA">
-                            <!-- Remove this field if you want to disable recaptcha -->
-
-                            <div class="row form-group-margin">
-                                <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                    <input type="text" name="name" class="form-control field-name" placeholder="Name">
-                                </div>
-                                <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                    <input type="email" name="email" class="form-control field-email"
-                                        placeholder="Email">
-                                </div>
-                                <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                    <input type="text" name="phone" class="form-control field-phone"
-                                        placeholder="Phone">
-                                </div>
-                                <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                    <i class="icon-arrow-down mr-3"></i>
-                                    <select name="info" class="form-control field-info">
-                                        <option value="" selected="" disabled="">More Info</option>
-                                        <option>Audit & Assurance</option>
-                                        <option>Financial Advisory</option>
-                                        <option>Analytics and M&A</option>
-                                        <option>Middle Marketing</option>
-                                        <option>Legal Consulting</option>
-                                        <option>Regulatory Risk</option>
-                                        <option>Other</option>
-                                    </select>
-                                </div>
-                                <div class="col-12 m-0 p-2 input-group">
-                                    <textarea name="message" class="form-control field-message"
-                                        placeholder="Message"></textarea>
-                                </div>
-                                <div class="col-12 col-12 m-0 p-2 input-group">
-                                    <span class="form-alert"></span>
-                                </div>
-                                <div class="col-12 input-group m-0 p-2">
-                                    <a class="btn primary-button">SEND</a>
-                                </div>
-                            </div>
-                        </form>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-pie-chart"></i>
+                            <h4>Case Study: Recruitment for Plastics Recycling Plant</h4>
+                            <p>Cluster Infotech provided recruitment for a plastics recycling plant in the UK including engaged search and talent mapping.</p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-speedometer"></i>
+                            <h4>Case Study: Process Safety for Mining</h4>
+                            <p>Cluster Infotech was approached to recruit Process Safety Management (PSM) leadership for one of the world's largest mining and mineral processing businesses.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-4">
-                <div class="contacts">
-                    <h4>Example Inc.</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p>Praesent diam lacus, dapibus sed imperdiet consectetur.</p>
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="fas fa-phone-alt mr-2"></i>
-                                +1 (305) 1234-5678
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="fas fa-envelope mr-2"></i>
-                                <span class="__cf_email__"
-                                    data-cfemail="a0c8c5cccccfe0c5d8c1cdd0ccc58ec3cfcd">[email&#160;protected]</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="fas fa-map-marker-alt mr-2"></i>
-                                Main Avenue, 987
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="mt-2 btn outline-button" data-toggle="modal" data-target="#map">VIEW
-                                MAP</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+        </section>
 <?php include 'footer.php';?>

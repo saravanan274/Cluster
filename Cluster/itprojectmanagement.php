@@ -87,7 +87,7 @@
                         <div class="card">
                             <i class="icon icon-organization"></i>
                             <h4>Approach</h4>
-                            <p>At a time to suit you eVantage Technology’s engineers will attend at each of your office location and perform a full assessment of your IT environment. .</p>
+                            <p>At a time to suit you Cluster Infotech engineers will attend at each of your office location and perform a full assessment of your IT environment. .</p>
                             <p>This will include an analysis of your servers, laptops and desktops and your networking devices. The initial work will be carried out onsite during Normal Office Hours, and will include an analysis of the physical environment.</p>
                             <a href="page-single-service-1.html"><i class="btn-icon pulse fas fas fa-arrow-right"></i></a>
                         </div>

@@ -29,7 +29,7 @@
     <div class="container">
         <h3>Reducing the complexity of workforce solutions</h3>
         <p>Energy, process and infrastructure projects are becoming increasingly complex and incorporate a large number of locations worldwide.</p>
-        <p>Airswift’s robust managed solutions services address the challenges this complexity presents. From recruiting and mobilising entire multi-discipline teams, to integrating a technology-focused approach and supply-chain management, our support teams take on as much of our clients’ workforce organisation burden as possible..</p>
+        <p>Cluster Infotech robust managed solutions services address the challenges this complexity presents. From recruiting and mobilising entire multi-discipline teams, to integrating a technology-focused approach and supply-chain management, our support teams take on as much of our clients’ workforce organisation burden as possible..</p>
         <p>Our vast and unrivalled experience in the industries we serve enables us to tailor solutions to match any situation or project scope. We have developed two primary offerings, Managed Service Provision (MSP) and Recruitment Process Outsourcing (RPO), to work either as a hybrid solution or as standalone services. Both can evolve as our clients’ needs change</p>
         
 
@@ -46,9 +46,9 @@
 
 <div class="" style=" margin-left:200px;background-color:#eef4ed;padding:25px;">
     <h3>Managed Service Provision (MSP)</h3>
-    <p>Airswift works closely with our customers to build, organise and manage their contingent workforce. Our experts initiate a detailed evaluation of the existing contractor engagement model, review supplier services and margins and benchmark contractor rates..</p>
+    <p>Cluster Infotech works closely with our customers to build, organise and manage their contingent workforce. Our experts initiate a detailed evaluation of the existing contractor engagement model, review supplier services and margins and benchmark contractor rates..</p>
     <p>This informs our recommendations that can deliver immediate payback through reduced costs, enhanced productivity and lower compliance risks. We then design and implement the MSP programme, and recommend the best Vendor Management System (VMS) technology partner to complement the programme.</p>
-    <p>After implementation, Airswift mobilises an MSP delivery team that takes full responsibility for supplier and contractor management and works closely with our clients to drive continuous improvement</p>
+    <p>After implementation, Cluster Infotech mobilises an MSP delivery team that takes full responsibility for supplier and contractor management and works closely with our clients to drive continuous improvement</p>
 </div>
 
 </div>
@@ -65,8 +65,8 @@
 
 <div class="" style=" margin-left:200px;background-color:#eef4ed;padding:25px;">
     <h3>Recruitment Process Outsourcing (RPO)</h3>
-<p>Airswift builds scalable, fully-integrated on-site recruitment models that combine with your business culture. We conduct a thorough analysis of current recruitment processes and make informed recommendations to maximise their technology and workforce plans..</p>
-<p>We take responsibility for any or all related activities, from sourcing, assessment and screening, to evaluation and on-boarding new staff. Implementation can take from four to twelve weeks, depending on the scale and scope of the work. Once implementation is complete, Airswift takes full accountability for the management of the company-wide recruitment process</p>
+<p>Cluster Infotech builds scalable, fully-integrated on-site recruitment models that combine with your business culture. We conduct a thorough analysis of current recruitment processes and make informed recommendations to maximise their technology and workforce plans..</p>
+<p>We take responsibility for any or all related activities, from sourcing, assessment and screening, to evaluation and on-boarding new staff. Implementation can take from four to twelve weeks, depending on the scale and scope of the work. Once implementation is complete, Cluster Infotech takes full accountability for the management of the company-wide recruitment process</p>
 </div>
 
 </div>
