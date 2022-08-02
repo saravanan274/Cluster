@@ -128,7 +128,7 @@
             </nav>
 
             <!-- Navbar -->
-            <nav class="navbar navbar-expand navbar-fixed sub">
+            <nav class="navbar navbar-expand navbar-fixed sub" style="background-color:black;">
                 <div class="container header">
 
                     <!-- Navbar Brand-->
@@ -168,58 +168,58 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/telephony.php">Telephony<i class="icon-arrow-right"></i></a></li>    
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/telephony.php">Turnkey Office Fit out<i class="icon-arrow-right"></i></a></li> 
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/turnkey.php">Turnkey Office Fit out<i class="icon-arrow-right"></i></a></li> 
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a href="#" class="nav-link">IT Solutions <i class="icon-arrow-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Business Continuity & Disaster Recovery<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/businesscontinutity.php">Business Continuity & Disaster Recovery<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Business Continuity Management<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/businesscontinutymanagement.php">Business Continuity Management<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Collaboration<i class="icon-arrow-right"></i></a></li>  
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/collaboration.php">Collaboration<i class="icon-arrow-right"></i></a></li>  
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Data Protection and Recovery<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/dataprotection.php">Data Protection and Recovery<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Desktop as a Service (DaaS)<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/desktopservice.php">Desktop as a Service (DaaS)<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Endpoint Monitoring and Management<i class="icon-arrow-right"></i></a></li>    
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/endpoint.php">Endpoint Monitoring and Management<i class="icon-arrow-right"></i></a></li>    
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Enterprise File Sync & Share<i class="icon-arrow-right"></i></a></li> 
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/enterprise.php">Enterprise File Sync & Share<i class="icon-arrow-right"></i></a></li> 
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Infrastructure Design and Deployment<i class="icon-arrow-right"></i></a></li> 
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/infrastructure.php">Infrastructure Design and Deployment<i class="icon-arrow-right"></i></a></li> 
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Managed Security<i class="icon-arrow-right"></i></a></li> 
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/managedsecurity.php">Managed Security<i class="icon-arrow-right"></i></a></li> 
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Office Productivity<i class="icon-arrow-right"></i></a></li> 
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/officeproductivity.php">Office Productivity<i class="icon-arrow-right"></i></a></li> 
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Virtualization<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/virtualization.php">Virtualization<i class="icon-arrow-right"></i></a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a href="#" class="nav-link">Recruitment Services<i class="icon-arrow-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Talent Acquisition<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/talentacquisition.php">Talent Acquisition<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Global Employment Outsourcing<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/globalemploymentoutsource.php">Global Employment Outsourcing<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Global Mobility<i class="icon-arrow-right"></i></a></li>  
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/globalmobility.php">Global Mobility<i class="icon-arrow-right"></i></a></li>  
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Workforce & HR Consulting<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/workforce.php">Workforce & HR Consulting<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">RPO & Managed Services<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/rpomanagedservices.php">RPO & Managed Services<i class="icon-arrow-right"></i></a></li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="#">Technical Services<i class="icon-arrow-right"></i></a></li>
+                                    <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/technicalservices.php">Technical Services<i class="icon-arrow-right"></i></a></li>
                             </ul>
                        </li>
                        <li class="nav-item dropdown">
                         <a href="#" class="nav-link">Industries<i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
                             <li class="nav-item dropdown">
-                                <a class="nav-link" href="#">Chemicals<i class="icon-arrow-right"></i></a></li>
+                                <a class="nav-link" href="http://localhost/clusteruae/biz-clusteruae-web/cluster/chemicals.php">Chemicals<i class="icon-arrow-right"></i></a></li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="#">Construction<i class="icon-arrow-right"></i></a></li>
                             <li class="nav-item dropdown">
@@ -250,7 +250,7 @@
                                     </ul>
 
                                 <li class="nav-item"><a href="part-text-block.html" class="nav-link">Partners & Products</a></li>
-                                <li class="nav-item"><a href="part-text-block.html" class="nav-link">Blog</a></li>
+                                <li class="nav-item"><a href="http://localhost/clusteruae/biz-clusteruae-web/cluster/blog.php" class="nav-link">Blog</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">

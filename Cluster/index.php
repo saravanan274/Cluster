@@ -117,152 +117,68 @@
             </div>
         </section>
 
-        <!-- Projects -->
-        <section id="projects" class="section-3 odd showcase blog-grid filter-section projects">
-            <div class="overflow-holder">
-                <div class="container">
-                    <div class="row text-center intro">
-                        <div class="col-12">
-                            <span class="pre-title">We do more for everyone</span>
-                            <h2 class="mb-0">Actions & <span class="featured"><span>Projects</span></span></h2>
+      <!-- Pricing -->
+      <section id="pricing" class="section-2 odd plans" style="background-color:black;">
+            <div class="container">
+                <div class="row text-center intro">
+                    <div class="col-12">
+                        <h2>Our Solutions</h2>
+                        </div>
+                </div>
+              
+          <!--<section id="features" class="section-1 features offers featured">-->
+            <div class="container">
+                <div class="row justify-content-center items">
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-people"></i>
+                            <h4>Business Continuity and Disaster Recovery</h4>
+                            <p>We provide robust, reliable and specially tailored Data Backup and Recovery solution for your Business. This will be critical in rescuing your Business</p>
                         </div>
                     </div>
-                    <div class="row justify-content-center text-center">
-                        <div class="col-12">
-                            <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                                <label class="btn active">
-                                    <input type="radio" value="all" checked="" class="btn-filter-item">
-                                    <span>All</span>
-                                </label>
-                                <label class="btn">
-                                    <input type="radio" value="institutional" class="btn-filter-item">
-                                    <span>Institutional</span>
-                                </label>
-                                <label class="btn">
-                                    <input type="radio" value="social" class="btn-filter-item">
-                                    <span>Social</span>
-                                </label>
-                                <label class="btn">
-                                    <input type="radio" value="events" class="btn-filter-item">
-                                    <span>Events</span>
-                                </label>
-                                <label class="btn">
-                                    <input type="radio" value="innovation" class="btn-filter-item">
-                                    <span>Innovation</span>
-                                </label>
-                                <label class="btn">
-                                    <input type="radio" value="environment" class="btn-filter-item">
-                                    <span>Environment</span>
-                                </label>
-                                <label class="btn">
-                                    <input type="radio" value="technology" class="btn-filter-item">
-                                    <span>Technology</span>
-                                </label>
-                            </div>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-pie-chart"></i>
+                            <h4>Collaboration</h4>
+                            <p>If your business requires team members to frequently collaborate on the same documents simultaneously, our suite of collaboration solutions give you a central place to share documents and information with colleagues.</p>
                         </div>
-                    </div>                    
-                    <div class="row items filter-items">                       
-                        <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["innovation","social","technology"]'>
-                            <div class="row card p-0 text-center">
-                                <div class="image-over">
-                                    <img src="assets/images/project-1.jpg" alt="Lorem ipsum">
-                                </div>
-                                <div class="card-caption col-12 p-0">
-                                    <div class="card-body">
-                                        <a href="#">
-                                            <h4>Logitech Rally: Where Light, Sight, and Sound Meet</h4>
-                                            <p>Seamless collaboration between employees is vital for any business- Logitech Rally!.</p>
-                                        </a>
-                                    </div>
-                                </div>
-                                <a href="#"><i class="btn-icon fas fas fa-arrow-right"></i></a>
-                            </div>
-                        </div>            
-                        <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["institutional","events","environment"]'>
-                            <div class="row card p-0 text-center">
-                                <div class="image-over">
-                                    <img src="assets/images/project-2.jpg" alt="Lorem ipsum">
-                                </div>
-                                <div class="card-caption col-12 p-0">
-                                    <div class="card-body">
-                                        <a href="#">
-                                            <h4>President's speech at the annual meeting</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        </a>
-                                    </div>
-                                </div>
-                                <a href="#"><i class="btn-icon fas fas fa-arrow-right"></i></a>
-                            </div>
-                        </div>     
-                        <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["environment","institutional","social"]'>
-                            <div class="row card p-0 text-center">
-                                <div class="image-over">
-                                    <img src="assets/images/project-3.jpg" alt="Lorem ipsum">
-                                </div>
-                                <div class="card-caption col-12 p-0">
-                                    <div class="card-body">
-                                        <a href="#">
-                                            <h4>International business trip in Shanghai</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        </a>
-                                    </div>
-                                </div>
-                                <a href="#"><i class="btn-icon fas fas fa-arrow-right"></i></a>
-                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-speedometer"></i>
+                            <h4>Data Protection and Recovery</h4>
+                            <p>We offer enterprise-grade data security and disaster recovery solution that protects against data breach, data loss and cyber intrusion</p>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["technology","events","innovation"]'>
-                            <div class="row card p-0 text-center">
-                                <div class="image-over">
-                                    <img src="assets/images/project-4.jpg" alt="Lorem ipsum">
-                                </div>
-                                <div class="card-caption col-12 p-0">
-                                    <div class="card-body">
-                                        <a href="#">
-                                            <h4>Technology workshop with education theme</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        </a>
-                                    </div>
-                                </div>
-                                <a href="#"><i class="btn-icon fas fas fa-arrow-right"></i></a>
-                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-speedometer"></i>
+                            <h4>Desktop as a Service (DaaS)</h4>
+                            <p>Utilising VDI (virtual desktop infrastructure) technology, Desktop as a Service refers to cloud-based desktop virtualization.</p>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["social","environment","events"]'>
-                            <div class="row card p-0 text-center">
-                                <div class="image-over">
-                                    <img src="assets/images/project-5.jpg" alt="Lorem ipsum">
-                                </div>
-                                <div class="card-caption col-12 p-0">
-                                    <div class="card-body">
-                                        <a href="#">
-                                            <h4>Donation of clothes and food to the partner NGO</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        </a>
-                                    </div>
-                                </div>
-                                <a href="#"><i class="btn-icon fas fas fa-arrow-right"></i></a>
-                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-speedometer"></i>
+                            <h4>Endpoint Monitoring and Management</h4>
+                            <p>Gone are the days of checking each computer terminal manually for system vulnerabilities. We provide the EMM Service to ensure that your Business’s Endpoint Devices .</p>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["innovation","institutional","technology"]'>
-                            <div class="row card p-0 text-center">
-                                <div class="image-over">
-                                    <img src="assets/images/project-6.jpg" alt="Lorem ipsum">
-                                </div>
-                                <div class="card-caption col-12 p-0">
-                                    <div class="card-body">
-                                        <a href="#">
-                                            <h4>Confraternization of the procurement team</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        </a>
-                                    </div>
-                                </div>
-                                <a href="#"><i class="btn-icon fas fas fa-arrow-right"></i></a>
-                            </div>
+                    </div>
+                    <div class="col-12 col-md-6 col-lg-4 item">
+                        <div class="card">
+                            <i class="icon featured icon-speedometer"></i>
+                            <h4>Enterprise File Sync & Share</h4>
+                            <p>Our Enterprise File Synchronisation and Sharing (EFSS) solution is secure, simple and flexible. It enables teams to work anytime, anywhere, with anyone seamlessly on the cloud.</p>
                         </div>
-                        <div class="col-1 filter-sizer"></div>
                     </div>
                 </div>
+   
             </div>
-        </section>
+            
+            </div>
+            </div>
+            </section>
+      
         
         <!-- Process -->
         <section id="process" class="section-4 process offers">
